@@ -35,11 +35,11 @@
 				<groupId>org.pitest</groupId>
 				<artifactId>pitest-maven</artifactId>
 				<version>1.1.5</version>
-				<configuration>
+			<!-- 	<configuration>
 					<mutators>
 						<mutator></mutator>
 					</mutators>
-				</configuration>
+				</configuration> -->
 			
 			</plugin>
 		</plugins>
