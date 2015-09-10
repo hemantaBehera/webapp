@@ -40,6 +40,12 @@
 						<mutator></mutator>
 					</mutators>
 				</configuration> -->
+				<configuration>
+    
+   					 <outputFormats>
+      					<outputFormat>XML</outputFormat>  
+    				</outputFormats>
+  				</configuration>
 			
 			</plugin>
 		</plugins>
